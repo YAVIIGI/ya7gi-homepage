@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ya7gi-homepage/static/css/main.1c0d3f8c.css",
-    "main.js": "/ya7gi-homepage/static/js/main.a9d67ddd.js",
+    "main.js": "/ya7gi-homepage/static/js/main.5393cd01.js",
     "index.html": "/ya7gi-homepage/index.html",
     "main.1c0d3f8c.css.map": "/ya7gi-homepage/static/css/main.1c0d3f8c.css.map",
-    "main.a9d67ddd.js.map": "/ya7gi-homepage/static/js/main.a9d67ddd.js.map"
+    "main.5393cd01.js.map": "/ya7gi-homepage/static/js/main.5393cd01.js.map"
   },
   "entrypoints": [
     "static/css/main.1c0d3f8c.css",
-    "static/js/main.a9d67ddd.js"
+    "static/js/main.5393cd01.js"
   ]
 }
