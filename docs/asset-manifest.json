@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/ya7gi-homepage/static/css/main.1c0d3f8c.css",
-    "main.js": "/ya7gi-homepage/static/js/main.5393cd01.js",
+    "main.css": "/ya7gi-homepage/static/css/main.ad3ee9bc.css",
+    "main.js": "/ya7gi-homepage/static/js/main.258818a5.js",
+    "static/media/20230102.png": "/ya7gi-homepage/static/media/20230102.c0aa35e73f7010b98c0b.png",
+    "static/media/20221221.png": "/ya7gi-homepage/static/media/20221221.89f6eb00d6aa5c94f4f3.png",
+    "static/media/20230101.png": "/ya7gi-homepage/static/media/20230101.cfb9cda963e9f2a1431c.png",
+    "static/media/20220422.gif": "/ya7gi-homepage/static/media/20220422.34beb47f9a1cc14f5de5.gif",
+    "static/media/profile.png": "/ya7gi-homepage/static/media/profile.32305e29697224c4642d.png",
     "index.html": "/ya7gi-homepage/index.html",
-    "main.1c0d3f8c.css.map": "/ya7gi-homepage/static/css/main.1c0d3f8c.css.map",
-    "main.5393cd01.js.map": "/ya7gi-homepage/static/js/main.5393cd01.js.map"
+    "main.ad3ee9bc.css.map": "/ya7gi-homepage/static/css/main.ad3ee9bc.css.map",
+    "main.258818a5.js.map": "/ya7gi-homepage/static/js/main.258818a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c0d3f8c.css",
-    "static/js/main.5393cd01.js"
+    "static/css/main.ad3ee9bc.css",
+    "static/js/main.258818a5.js"
   ]
 }
