@@ -1,18 +1,30 @@
 {
   "files": {
-    "main.css": "/ya7gi-homepage/static/css/main.ad3ee9bc.css",
-    "main.js": "/ya7gi-homepage/static/js/main.258818a5.js",
-    "static/media/20230102.png": "/ya7gi-homepage/static/media/20230102.c0aa35e73f7010b98c0b.png",
-    "static/media/20221221.png": "/ya7gi-homepage/static/media/20221221.89f6eb00d6aa5c94f4f3.png",
-    "static/media/20230101.png": "/ya7gi-homepage/static/media/20230101.cfb9cda963e9f2a1431c.png",
-    "static/media/20220422.gif": "/ya7gi-homepage/static/media/20220422.34beb47f9a1cc14f5de5.gif",
-    "static/media/profile.png": "/ya7gi-homepage/static/media/profile.32305e29697224c4642d.png",
+    "main.css": "/ya7gi-homepage/static/css/main.63e56fa9.css",
+    "main.js": "/ya7gi-homepage/static/js/main.27926f7c.js",
+    "static/media/20230625.png": "/ya7gi-homepage/static/media/20230625.668c15ed3a257d401164.png",
+    "static/media/20230122pata.png": "/ya7gi-homepage/static/media/20230122pata.2f27b7222cb5232656bd.png",
+    "static/media/20231005-halloween.png": "/ya7gi-homepage/static/media/20231005-halloween.183d20213050baeba76e.png",
+    "static/media/-s.png": "/ya7gi-homepage/static/media/2023082500584220230824-s.f4615672d892d59f8809.png",
+    "static/media/20230927-anim-igarashi.png": "/ya7gi-homepage/static/media/20230927-anim-igarashi.b2a194b09dca7df57c34.png",
+    "static/media/20231002-game-suruzo.gif": "/ya7gi-homepage/static/media/20231002-game-suruzo.24dd6ae783bfedc7e4f6.gif",
+    "static/media/punyaco-danbohru-50.png": "/ya7gi-homepage/static/media/punyaco-danbohru-50.52ddcf7439ead75e155e.png",
+    "static/media/punyaco-game.png": "/ya7gi-homepage/static/media/punyaco-game.cdbaaa2bbfdf7deef531.png",
+    "static/media/20230605sakisd.gif": "/ya7gi-homepage/static/media/20230605sakisd.df272ae53eff7a83743b.gif",
+    "static/media/20231015-necotomohumohu.png": "/ya7gi-homepage/static/media/20231015-necotomohumohu.df59ecd452282303bcf8.png",
+    "static/media/punyako-reference.png": "/ya7gi-homepage/static/media/punyako-reference.fb345131fb6475c66aff.png",
+    "static/media/20230707f.png": "/ya7gi-homepage/static/media/20230707f.c1cdd51c09396c06a1ff.png",
+    "static/media/20230802.png": "/ya7gi-homepage/static/media/20230802.c5bbf480166413494e6f.png",
+    "static/media/20230925.png": "/ya7gi-homepage/static/media/20230925.6334fc66c8c939b07138.png",
+    "static/media/20230909-f.png": "/ya7gi-homepage/static/media/20230909-f.89475b753cd3667f2fc5.png",
+    "static/media/profile.gif": "/ya7gi-homepage/static/media/profile.10162eac2d39f6229786.gif",
+    "static/media/20230415yorusagyou.gif": "/ya7gi-homepage/static/media/20230415yorusagyou.5edbdf2eb063301342b6.gif",
     "index.html": "/ya7gi-homepage/index.html",
-    "main.ad3ee9bc.css.map": "/ya7gi-homepage/static/css/main.ad3ee9bc.css.map",
-    "main.258818a5.js.map": "/ya7gi-homepage/static/js/main.258818a5.js.map"
+    "main.63e56fa9.css.map": "/ya7gi-homepage/static/css/main.63e56fa9.css.map",
+    "main.27926f7c.js.map": "/ya7gi-homepage/static/js/main.27926f7c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad3ee9bc.css",
-    "static/js/main.258818a5.js"
+    "static/css/main.63e56fa9.css",
+    "static/js/main.27926f7c.js"
   ]
 }
